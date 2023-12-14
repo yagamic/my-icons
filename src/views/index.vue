@@ -5,7 +5,7 @@
       <h4 class="head_txt">
         提供在线图标链接，用于个人NAS设备显示使用，禁止用于商业用途
       </h4>
-      <h4 class="head_txt">开源项目，By Siriling</h4>
+      <h4 class="head_txt">开源项目，By Yagamic</h4>
       <div class="use">
         <el-image class="use_img" :src="require('../assets/docker.png')" />
         <div class="use_txt">Docker容器</div>
@@ -83,7 +83,7 @@
       </el-space>
     </div>
     <div class="foot">
-      <div class="foot_txt">© 2023.4.18 | By Siriling</div>
+      <div class="foot_txt">© 2023.4.18 | By Yagamic</div>
       <div class="foot_url">
         <el-popover placement="top" :width="150">
           <template #reference>
