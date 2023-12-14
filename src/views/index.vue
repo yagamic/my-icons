@@ -83,7 +83,7 @@
       </el-space>
     </div>
     <div class="foot">
-      <div class="foot_txt">© 2023.4.18 | By Yagamic</div>
+      <div class="foot_txt">© 2023.12.14 | By Yagamic</div>
       <div class="foot_url">
         <el-popover placement="top" :width="150">
           <template #reference>
@@ -95,12 +95,12 @@
         <el-image
           class="foot_img"
           :src="require('../assets/gitee.png')"
-          @click="openUrl('https://gitee.com/Siriling/my-icon')"
+          @click="openUrl('https://gitee.com/yagamic/my-icon')"
         />
         <el-image
           class="foot_img"
           :src="require('../assets/github.png')"
-          @click="openUrl('https://github.com/Siriling/my-icons')"
+          @click="openUrl('https://github.com/yagamic/my-icons')"
         />
       </div>
     </div>
